@@ -1,6 +1,4 @@
 # Ignore Eclipse-Specific Files
-.classpath
-.project
 .settings/
 bin/
 target/
